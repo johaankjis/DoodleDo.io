@@ -34,7 +34,7 @@ README.md
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ai-drawing-calculator.git
+    git clone https://github.com/johaankjis/DoodleDo.io.git
     cd ai-drawing-calculator
     ```
 
