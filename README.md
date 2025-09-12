@@ -1,6 +1,6 @@
 # DoodleDo.io
 
-This project is an interactive calculator that allows users to draw math problems and receive real-time solutions. It integrates the **Gemini Flash AI API** to recognize hand-drawn equations, with a **Python backend** for processing and a **React frontend** to create a smooth, user-friendly interface.
+This project is an interactive whiteboard that allows users to draw math problems and receive real-time solutions. It integrates the **Gemini Flash AI API** to recognize hand-drawn equations, with a **Python backend** for processing and a **React frontend** to create a smooth, user-friendly interface.
 
 ## Features
 
